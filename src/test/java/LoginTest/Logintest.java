@@ -28,6 +28,7 @@ public class Logintest {
     public void test2(){
         driver.get("https://www.google.com");
         Assert.assertEquals(driver.getTitle(),"Google");
+        //hello from branch feature
     }
 
     @AfterMethod
