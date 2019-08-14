@@ -1,4 +1,4 @@
 package LoginPage;
 
-public class LoginPa {
+public class    LoginPa {
 }
