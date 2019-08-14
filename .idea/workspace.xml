@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a489c36-e14b-4e6d-b02e-21a930949624" name="Default Changelist" comment="" />
+    <list default="true" id="0a489c36-e14b-4e6d-b02e-21a930949624" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTest/Logintest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest/Logintest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Logintest">
+  <component name="RunManager" selected="TestNG.Logintest.test2">
     <configuration name="Logintest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="va2019gitPracticeMuradil" />
       <extension name="coverage">
@@ -81,8 +84,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Logintest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="va2019gitPracticeMuradil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest.Logintest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Logintest.test2" />
         <item itemvalue="TestNG.Logintest" />
         <item itemvalue="TestNG.Logintest.test1" />
       </list>
